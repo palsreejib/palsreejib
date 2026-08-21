@@ -1,4 +1,8 @@
-## Hi there 👋
+## Sreejib here 👋
+
+### AI · Autonomous Systems · Multi-Modal Signal Processing
+
+>Running before learning to walk...
 
 <!--
 **palsreejib/palsreejib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
